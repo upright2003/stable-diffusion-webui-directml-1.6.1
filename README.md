@@ -15,6 +15,8 @@ stable-diffusion-webui-directml v1.6.1版本備份+venv懶人包
 
 venv.zip download : https://huggingface.co/datasets/pluseen/stable-diffusion-webui-directml-1.6.1/resolve/main/venv.zip
 
+stable-diffusion-webui-directml.zip https://huggingface.co/datasets/pluseen/stable-diffusion-webui-directml-1.6.1/resolve/main/stable-diffusion-webui-directml.zip
+
 webui-user.bat  推薦參數rx5500xt下可畫960x540  set COMMANDLINE_ARGS=--opt-sub-quad-attention  --lowvram  --medvram  --disable-nan-check 
 
 ----------------------------------------
