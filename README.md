@@ -31,10 +31,6 @@ https://github.com/Mikubill/sd-webui-controlnet
 
 https://github.com/fkunn1326/openpose-editor
 
-https://github.com/Mikubill/sd-webui-controlnet
-
-https://github.com/picobyte/stable-diffusion-webui-wd14-tagger
-
 https://github.com/jexom/sd-webui-depth-lib
 
 反向
